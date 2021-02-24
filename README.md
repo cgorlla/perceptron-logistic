@@ -1,2 +1,2 @@
-# perceptron-logistic
-An implementation of the perceptron and logistic regression algorithms to classify where online posts come from. Includes regular and one-vs-all multiclass perceptron.
+# Perceptron & Logistic Regression
+# [View](https://nbviewer.jupyter.org/github/cgorlla/perceptron-logistic/blob/main/Perceptron%2C%20Logistic%20Regression.ipynb)
